@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902373936117",
+    "project_id": "t-f-w-online-shop-app",
+    "storage_bucket": "t-f-w-online-shop-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902373936117:android:8f642a575a9e1ca0c9eebc",
+        "android_client_info": {
+          "package_name": "com.example.t_f_w_online_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902373936117-brsqf823utq6f85kbhage14oand7qfi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChuHILfUQK6TCEOzXMGyqxg3hfpP1H1H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902373936117-brsqf823utq6f85kbhage14oand7qfi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
